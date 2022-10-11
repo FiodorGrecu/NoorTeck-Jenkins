@@ -13,7 +13,6 @@ import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 
 public class MercuryStepDef extends Constants {
-	
 
 	@Given("user navigate to Mercury Application")
 	public void navigateToApp() {
